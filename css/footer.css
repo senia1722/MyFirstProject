@@ -1,0 +1,28 @@
+.footer {
+    background-color: #181511;
+    height: 72px;
+}
+
+.footer__text {
+    display: flex;
+    padding-top: 12px;
+    justify-content: space-between;
+}
+
+.footer__left {
+    color: #ACA592;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.my__name {
+    color: #FFAE2B;
+    font-size: 12px;
+    line-height: 22px;  
+}
+
+.footer__right {
+    color: #FFAE2B;
+    font-size: 12px;    
+    line-height: 22px;
+}

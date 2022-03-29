@@ -1,0 +1,36 @@
+.offer {
+   background-image: url(../images/offer/cover.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: 0 86px;
+   padding-top: 86px;
+   min-height: 100vh;
+}
+
+.offer__inner {
+   padding: 120px 0 100px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.offer__title .title__main{
+   font-size: 70px;
+}
+
+.offer__title {
+   margin-bottom: 70px;
+   transition-duration: 500ms;
+}
+
+.offer__link {
+   margin-top: 100px;
+}
+
+.offer__link:hover {
+   background-color: #eb9100;
+} 
+
+.offer__link:active {
+   background-color: #c97c00;
+} 

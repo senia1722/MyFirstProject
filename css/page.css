@@ -1,0 +1,60 @@
+.page{
+    background-color: #181511;
+    height: 2730px;
+}
+
+.page__title .title__main{
+    color: #FFAE2B;
+    padding-top: 10px;
+}
+
+.page__title .title__item {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #ACA592;
+    letter-spacing: 2px;
+    padding-top: 120px;
+}
+
+.page__slides {
+    margin-top: 60px;
+}
+
+.slides {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.left__slide {
+    width: 387px;
+    height: 315px;
+    border: 1px solid #4B4136;
+    margin-right: 20px;
+}
+
+.center__slide {
+    width: 387px;
+    height: 315px;
+    border: 1px solid #4B4136;
+    margin-right: 20px;
+}
+
+.right__slide {
+    width: 387px;
+    height: 315px;
+    border: 1px solid #4B4136;
+}
+
+.slide__text {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 2px;
+    text-transform: uppercase;  
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.slides__line__seven {
+    margin-bottom: 0;
+}

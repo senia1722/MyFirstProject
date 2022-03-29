@@ -1,0 +1,20 @@
+.title {
+    max-width: 869px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.title__item {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #FFAE2B;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+.title__main {
+    font-size: 60px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+

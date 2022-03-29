@@ -1,0 +1,51 @@
+.service {
+    height: 752px;
+    background-color: #181511;
+}
+
+.service__title .title__main{
+    color: #FFAE2B;
+    padding-top: 10px;
+}
+
+.service__title .title__item {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #ACA592;
+    letter-spacing: 2px;
+    padding-top: 120px;
+}
+
+.block {
+    width: 400px;
+    height: 350px;
+    border: 1px solid #4B4136;
+    padding-top: 61px;
+    padding-left: 61px;
+}
+
+.service__blocks {
+    display: flex;
+    margin-top: 60px;
+}
+
+.block__text {
+    font-size: 29px;
+    line-height: 40px;
+    color: #FFAE2B;
+    padding-top: 20px;
+}
+
+.block__subtitle {
+    font-size: 15px;
+    line-height: 26px;
+    color: #ACA592;
+    padding-top: 10px;
+}
+
+.block__item {
+    font-size: 11px;
+    line-height: 26px;
+    color: #ACA592;
+    padding-top: 5px;
+}

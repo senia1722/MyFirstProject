@@ -1,0 +1,52 @@
+.newsletter {
+    background-color: #181511;
+    height: 390px;
+}
+
+.newsletter__inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+
+.newsletter__title .title__main{
+    color: #FFAE2B;
+    padding-top: 10px;
+    width: 517px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.newsletter__title .title__item {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #ACA592;
+    width: 411px;
+    margin: 0 auto;
+}
+
+.newsletter__subtitle {
+    font-size: 12px;
+    line-height: 28px;
+    text-align: center;
+    color: #ACA592;
+    padding-bottom: 30px;
+}
+
+.newsletter__networks {
+    display: flex;
+    margin-top: 25px;
+}
+
+.network__logo {
+    padding: 14px 14px 6px 14px;
+    border: 1px solid #4B4136;
+    margin-right: 8px;
+}
+
+.network__in {
+    margin: 0;
+    padding: 14px 10px 6px 10px;
+}
